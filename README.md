@@ -1,13 +1,12 @@
 # Database_Dashboard
 PyCRUD README 
 
-About the Project/Project Title
-PyCRUD is a project that uses a simple Python script to provide CRUD (Create, Read, Update, Delete) functionality for a dataset through MongoDB.  PyCRUD leverages the Python driver pyMongo to create an easy-to-use database management tool.  
+**About the Project**
 
-Motivation
-The project is an example of how to implement the pyMongo tool in MongoDB to facilitate streamlined interactions with the database content.  
+PyCRUD is a project that uses a simple Python script to provide CRUD (Create, Read, Update, Delete) functionality for a dataset through MongoDB.  PyCRUD leverages the Python driver pyMongo to create an easy-to-use database management tool.  The project is an example of how to implement the pyMongo tool in MongoDB to facilitate streamlined interactions with the database content.  
 
-Getting Started
+**Getting Started**
+
 Note that to implement PyCRUD, you must first ensure that you have MongoDB installed on your machine and that you have imported the dataset you wish to use.  The following screenshot demonstrates the use of the mongoimport tool:
 
  
