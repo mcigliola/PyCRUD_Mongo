@@ -1,5 +1,4 @@
-# Database_Dashboard
-PyCRUD README 
+# PyCRUD_Mongo
 
 <h2>About the Project</h2>
 
