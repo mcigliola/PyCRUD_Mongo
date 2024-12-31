@@ -67,6 +67,3 @@ The following screenshots demonstrate the functionality of PyCRUD:
  
  
 
-<h2>Contact</h2>
-Mary Cigliola
-
